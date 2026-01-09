@@ -31,7 +31,7 @@ Feel free to check the [issues page](https://github.com/Ibnballo1/abdullateef-po
 
 # Live Demo
 
-This is a link to the [live demo](https://ibnballo1.github.io/portfolio/)
+This is a link to the [live demo](https://abdullateef-portfolio-rho.vercel.app/)
 
 # Show your support
 

@@ -101,6 +101,15 @@ export default function Hero() {
           >
             Get In Touch
           </Link>
+          {/* Download Resume */}
+          <Link
+            href="/Abdullateef Bello Resume_CV.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="button-secondary inline-flex items-center justify-center"
+          >
+            Download Resume
+          </Link>
         </motion.div>
 
         {/* Social Links */}
