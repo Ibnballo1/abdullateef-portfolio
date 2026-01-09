@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio: setup and mobile version skeleton
 
-## Getting Started
+In this project, I will be creating a _Portfolio setup and mobile friendly skeleton_ repo. This will be done by first creating a feature branch then add a **README.md** file. The project will have a .gitignore file to ignore all unneccesary files together with two files for HTML and CSS.
 
-First, run the development server:
+# Built With
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Major Languages
+  - Next.js
+  - TailwindCSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Getting Started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To get a local copy up and running, follow these simple steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Usage
 
-## Learn More
+First copy this repo and clone it on your machine using this [link](https://github.com/Ibnballo1/abdullateef-portfolio.git).
+Then cd into abdullateef-portfolio.
 
-To learn more about Next.js, take a look at the following resources:
+# Authors
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+:adult: Abdullateef Bello
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- GitHub: @Ibnballo1
+- Linkedin: [Abdullateef Bello](https://www.linkedin.com/in/abdullateef-bello/)
 
-## Deploy on Vercel
+# Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/Ibnballo1/abdullateef-portfolio/issues)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Live Demo
+
+This is a link to the [live demo](https://ibnballo1.github.io/portfolio/)
+
+# Show your support
+
+Kindly give a :hearts: if you like this.
+
+# Acknowledgement
+
+- I expressed my gratitude for everyone.
+
+# License
+
+This project is [MIT](https://github.com/Ibnballo1/portfolio/blob/8f9454e28a95095f324078c1c8b5d5315b0109a1/MIT.md).
